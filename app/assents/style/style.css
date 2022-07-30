@@ -1,0 +1,21 @@
+.carousel-caption
+{
+    background: rgba(0, 0, 0, 0.486);
+    backdrop-filter: blur(5px);
+    width: 100%;
+    margin-left: -15%;
+}
+.input-group
+{
+    width: 50%;
+}
+
+.btn:focus
+{
+    display: none;
+}
+
+.modalAlertError
+{
+    display: block;
+}
